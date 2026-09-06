@@ -22,7 +22,7 @@ docker compose down
 
 ## Deployment Evidence
 
-![Node.js deployment](nodejs-deployment__24bcs10642.png)
+![Node.js deployment](nodejs-deployment_24bcs10642.png)
 
 ![Python deployment](python-deployment_24bcs10642.png)
 
