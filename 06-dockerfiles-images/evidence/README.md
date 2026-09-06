@@ -13,7 +13,6 @@ Roll number: **10642**
 
 ## Screenshots
 
-<!-- Save your screenshots in 06-dockerfiles-images/ as docker-image-containers_screenshot.png and multi-stage-build_screenshot.png -->
-![Running containers](../docker-image-containers_screenshot.png)
+![Running containers](../docker_image-container_24bcs10642.png)
 
-![Multi-stage application](../multi-stage-build_screenshot.png)
+![Multi-stage application](../multi-stage-build_24bcs10642.png)

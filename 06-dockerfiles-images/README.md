@@ -22,9 +22,8 @@ docker compose down
 
 ## Deployment Evidence
 
-<!-- Save your deployment screenshots here -->
-![Node.js deployment](nodejs-deployment_screenshot.png)
+![Node.js deployment](nodejs-deployment__24bcs10642.png)
 
-![Python deployment](python-deployment_screenshot.png)
+![Python deployment](python-deployment_24bcs10642.png)
 
-![Java deployment](java-deployment_screenshot.png)
+![Java deployment](java-deployment_24bcs10642.png)
