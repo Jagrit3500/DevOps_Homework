@@ -39,5 +39,4 @@ The container was removed after the test. No user was added to the host.
 
 ## Evidence
 
-<!-- Save your screenshot as user-management_screenshot.png -->
-![User management output](user-management_screenshot.png)
+![User management output](user-management_24bcs10642.png)

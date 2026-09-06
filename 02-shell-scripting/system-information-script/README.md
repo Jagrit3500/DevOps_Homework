@@ -29,7 +29,6 @@ Process list saved to: system-report/process.log
 
 ## Evidence
 
-<!-- Save your screenshots as system-information_screenshot.png and process-log_screenshot.png -->
-![System information output](system-information_screenshot.png)
+![System information output](system-information_24bcs10642.png)
 
-![Saved process output](process-log_screenshot.png)
+![Saved process output](process-log_24bcs10642.png)

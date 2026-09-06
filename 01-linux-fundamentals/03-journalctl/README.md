@@ -43,5 +43,4 @@ On Windows or environments without systemd, run these commands inside Ubuntu/WSL
 
 ## Evidence
 
-<!-- Save your screenshot as journalctl_screenshot.png -->
-![Journal logs](journalctl_screenshot.png)
+![Journal logs](journalctl_24bcs10642.png)

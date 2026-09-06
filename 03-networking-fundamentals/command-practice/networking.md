@@ -25,5 +25,4 @@ HTTP: 200
 
 ## Evidence
 
-<!-- Save your screenshot as networking-commands_screenshot.png -->
-![Networking command output](networking-commands_screenshot.png)
+![Networking command output](networking-command_24bcs10642.png)

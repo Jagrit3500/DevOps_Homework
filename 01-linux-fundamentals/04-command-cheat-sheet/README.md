@@ -48,5 +48,4 @@ real output is saved in `output.txt`.
 
 ## Evidence
 
-<!-- Save your screenshot as linux-commands_screenshot.png -->
-![Linux command output](linux-commands_screenshot.png)
+![Linux command output](linux-command_24bcs10642.png)

@@ -16,5 +16,4 @@ The new file is not committed by git commit -a -m.
 
 ## Evidence
 
-<!-- Save your screenshot as git-commit-a_screenshot.png -->
-![Git commit output](git-commit-a_screenshot.png)
+![Git commit output](git-commit-a_24bcs10642.png)

@@ -110,5 +110,4 @@ find . -samefile original.txt
 
 ## Evidence
 
-<!-- Save your screenshot as links_screenshot.png -->
-![Soft and hard links](links_screenshot.png)
+![Soft and hard links](links_24bcs10642.png)

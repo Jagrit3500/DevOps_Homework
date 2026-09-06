@@ -28,20 +28,18 @@ docker compose down
 
 ### Running Containers
 
-<!-- Save your screenshot as docker-containers_screenshot.png -->
-![Docker containers](docker-containers_screenshot.png)
+![Docker containers](docker-containers_24bcs10642.png)
 
 ### Applications
 
-<!-- Save your screenshots as <app>_screenshot.png -->
-![Node.js application](nodejs-app_screenshot.png)
+![Node.js application](nodejs-app_24bcs10642.png)
 
-![Python application](python-app_screenshot.png)
+![Python application](python-app_24bcs10642.png)
 
-![Java application](java-app_screenshot.png)
+![Java application](java-app_24bcs10642.png)
 
-![Apache application](apache-app_screenshot.png)
+![Apache application](apache-app_24bcs10642.png)
 
-![React application](react-app_screenshot.png)
+![React application](react-app_24bcs10642.png)
 
-![Nginx application](nginx-app_screenshot.png)
+![Nginx application](nginx-app_24bcs10642.png)

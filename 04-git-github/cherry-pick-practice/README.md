@@ -17,5 +17,4 @@ commits stayed on the `feature` branch.
 
 ## Evidence
 
-<!-- Save your screenshot as git-cherry-pick_screenshot.png -->
-![Git cherry-pick output](git-cherry-pick_screenshot.png)
+![Git cherry-pick output](git-cherry-pick_24bcs10642.png)
