@@ -17,7 +17,7 @@ The full process list is saved in `system-report/process.log`.
 ## Recorded Output
 
 ```text
-Name: Jagrit
+Name: Jagrit Dharewa
 Note: DevOps system information script homework
 Date: Sun Sep 6 22:45:00 IST 2026
 Host: JAGRIT
